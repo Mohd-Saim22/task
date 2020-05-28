@@ -5,4 +5,7 @@ recipes are:
 Kheer 
 Pasta
 
+Bean 
+Pizza
+
 Thank you
